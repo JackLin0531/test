@@ -1,3 +1,3 @@
-print('hello python & git ssss')
+print('hello python')
 # hi, this is comment
 #edit
